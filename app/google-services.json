@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "513931984679",
+    "firebase_url": "https://shms-2bc9d.firebaseio.com",
+    "project_id": "shms-2bc9d",
+    "storage_bucket": "shms-2bc9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513931984679:android:e8e874ec1315a106",
+        "android_client_info": {
+          "package_name": "my.iumw.anusheri.shms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513931984679-alst8cjgh8dsj2hfsbbe2o125u35m29a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.iumw.anusheri.shms",
+            "certificate_hash": "23e3a7a405dafb855938b20f314ed8210e7b1d80"
+          }
+        },
+        {
+          "client_id": "513931984679-vsumt2a1k0m1cojhdot1v4voca1n87h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEFlDj8vQqT3pbv8yLdO4LkA0W9Ub969s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513931984679-vsumt2a1k0m1cojhdot1v4voca1n87h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
